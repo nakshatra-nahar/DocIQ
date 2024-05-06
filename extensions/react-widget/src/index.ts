@@ -1,0 +1,1 @@
+export { dociqWidget } from "./components/dociqWidget";
